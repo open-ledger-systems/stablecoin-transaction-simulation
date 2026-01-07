@@ -1,16 +1,19 @@
 # stablecoin-transaction-simulation
+
 Research and educational projects analyzing blockchain systems, stablecoin mechanics, and common crypto myths. Learn the truth behind terms like “flash USDT” through simulations and technical demonstrations.
-# Flash USDT Simulation: Educational Blockchain Demonstration
+
+<!-- Tether Logo Images -->
+<p align="center">
+  <a href="https://flashusdt.ai"><img src="https://logo.svgcdn.com/token-branded/usdt.svg" alt="USDT Logo" width="120" /></a>
+  <a href="https://flashusdt.ai"><img src="https://logo.svgcdn.com/token-branded/usdt.png" alt="USDT Logo" width="120" /></a>
+</p>
 
 ## Overview
-The term **“Flash USDT” (F.USDT)** is often misunderstood online, referring both to experimental time-bound token concepts and to high-risk software claims.
+**Flash USDT (F.USDT)** is often misunderstood online. It refers both to experimental time-bound token concepts and to high-risk software claims.  
 
-This repository provides a **safe, educational simulation** showing how **real USDT transactions** operate at the protocol level **without using real funds**. It is intended for research, learning, and demonstration purposes only.
-
----
+This repository demonstrates how **real USDT transactions operate** at the protocol level using **mock tokens and simulations** — **without using real funds**. It is strictly **educational and research-focused**.
 
 ## Background
-
 ### 1. Time-Bound Token Concepts
 Some experimental implementations of “Flash USDT” involve **time-limited TRC-20 tokens** used for:
 - Short-cycle value distribution  
@@ -29,7 +32,7 @@ Many online tools claiming to generate “Flash USDT” often:
 - Claim to bypass blockchain confirmations  
 - Require paid licenses  
 
-⚠️ Such tools are frequently fraudulent. They do **not create real USDT** and should be treated with extreme caution.
+⚠️ Such tools are frequently fraudulent and should be treated with extreme caution.
 
 ### 3. Tokens Named “Flash USDT”
 Various low-liquidity tokens with names like “F.USDT” exist on chains like:
@@ -41,11 +44,8 @@ These tokens:
 - Trade below $1 USD  
 - Are **not backed by Tether**
 
----
-
 ## About This Project
 This repository demonstrates **how USDT transactions work in a blockchain environment** using:
-
 - **Mock tokens and ledger simulations**  
 - Visualization of transaction states and confirmations  
 - Explanation of why “flash” USDT claims are technically impossible  
@@ -55,87 +55,21 @@ This repository demonstrates **how USDT transactions work in a blockchain enviro
 - No interaction with mainnet  
 - Safe to run on local machines or test networks  
 
----
-
-## Installation (Node.js Example)
-
-```bash
-git clone https://github.com/open-ledger-systems/stablecoin-transaction-simulation.git```
-```cd stablecoin-transaction-simulation```
-```npm install```
-```npm start```
-
-
-
-## Python Alternative
-
-git clone https://github.com/open-ledger-systems/stablecoin-transaction-simulation.git
-cd stablecoin-transaction-simulation
-python -m venv venv
-source venv/bin/activate  # Linux/macOS
-venv\Scripts\activate     # Windows
-pip install -r requirements.txt
-python run_simulation.py
-
-Usage
-Observe mock USDT transactions and ledger flows
-Understand transaction confirmation mechanics
-Topics / Tags (SEO)
-#Flash USDT
-#USDT simulation
-#Blockchain transaction demo
-#Stablecoin education
-#Crypto myths analysis
-#Transaction visualization
-
-# Flash USDT Simulation: Educational Blockchain Demonstration
-
-<!-- Tether Logo Images -->
-<p align="center">
-  <img src="https://logo.svgcdn.com/token-branded/usdt.svg" alt="USDT Logo" width="120" />
-  <img src="https://logo.svgcdn.com/token-branded/usdt.png" alt="USDT Logo" width="120" />
-</p>
-
-## Overview
-**Flash USDT (F.USDT)** is a term often misunderstood online. It refers both to experimental token concepts and to high‑risk software claims.
-
-This repository demonstrates how **real USDT transactions operate** at the protocol level using **mock tokens and simulations** — **without using real funds**. It is strictly **educational and research‑focused**.
-
----
-
 ## Resources & References
+- **Node.js** – JavaScript runtime: [https://nodejs.org](https://nodejs.org)  
+- **TronScan Explorer** – TRON blockchain transactions: [https://tronscan.finance](https://tronscan.finance)  
+- **Tether (USDT) Official Info** – [https://tether.to](https://tether.to)  
 
-- **Node.js** – A JavaScript runtime used to run simulations and scripts: https://nodejs.org  
-- **TronScan Explorer** – View TRON blockchain transactions and USDT activity: https://tronscan.finance 0  
-- **Official Tether (USDT) Info** – Learn about the stablecoin’s role and mechanisms: https://tether.to 1  
-
----
-
-## Demonstration Purpose
-
-This project provides:
-- Simulation of **mock USDT transactions**
-- Visualization of **transaction confirmation flow**
-- Explanation of why “flash” USDT claims are technically impossible on mainnet  
-
-The code uses **fake tokens and mock ledgers** so it cannot interact with real funds.
-
-
-- **Telegram:** [https://t.me/OWNEROFPTX]()  
-- **Website:** [https://flashusdt.ai]()  
-- **Telegram Channel:** [https://t.me/usdtflashapp]()  
-- **Demo Website:** [https://flashusdtdownload.com]()
-
----
+## Community & Demo Links
+- **Telegram:** [https://t.me/OWNEROFPTX](https://t.me/OWNEROFPTX)  
+- **Website:** [https://flashusdt.ai](https://flashusdt.ai)  
+- **Telegram Channel:** [https://t.me/usdtflashapp](https://t.me/usdtflashapp)  
+- **Demo Website:** [https://flashusdtdownload.com](https://flashusdtdownload.com)  
 
 ## Installation
-
 ### Node.js Setup
-
-console.log("bash
+```bash
 git clone https://github.com/open-ledger-systems/stablecoin-transaction-simulation.git
 cd stablecoin-transaction-simulation
 npm install
-npm start");
-
-
+npm start
