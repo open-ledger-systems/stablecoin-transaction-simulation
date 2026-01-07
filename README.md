@@ -60,14 +60,14 @@ This repository demonstrates **how USDT transactions work in a blockchain enviro
 ## Installation (Node.js Example)
 
 ```bash
-git clone https://github.com/open-ledger-systems/stablecoin-transaction-simulation.git
-cd stablecoin-transaction-simulation
-npm install
-npm start
+git clone https://github.com/open-ledger-systems/stablecoin-transaction-simulation.git```
+```cd stablecoin-transaction-simulation```
+```npm install```
+```npm start```
 
 
 
-**Python Alternative**
+## Python Alternative
 
 git clone https://github.com/open-ledger-systems/stablecoin-transaction-simulation.git
 cd stablecoin-transaction-simulation
@@ -87,3 +87,55 @@ Topics / Tags (SEO)
 #Stablecoin education
 #Crypto myths analysis
 #Transaction visualization
+
+# Flash USDT Simulation: Educational Blockchain Demonstration
+
+<!-- Tether Logo Images -->
+<p align="center">
+  <img src="https://logo.svgcdn.com/token-branded/usdt.svg" alt="USDT Logo" width="120" />
+  <img src="https://logo.svgcdn.com/token-branded/usdt.png" alt="USDT Logo" width="120" />
+</p>
+
+## Overview
+**Flash USDT (F.USDT)** is a term often misunderstood online. It refers both to experimental token concepts and to high‑risk software claims.
+
+This repository demonstrates how **real USDT transactions operate** at the protocol level using **mock tokens and simulations** — **without using real funds**. It is strictly **educational and research‑focused**.
+
+---
+
+## Resources & References
+
+- **Node.js** – A JavaScript runtime used to run simulations and scripts: https://nodejs.org  
+- **TronScan Explorer** – View TRON blockchain transactions and USDT activity: https://tronscan.finance 0  
+- **Official Tether (USDT) Info** – Learn about the stablecoin’s role and mechanisms: https://tether.to 1  
+
+---
+
+## Demonstration Purpose
+
+This project provides:
+- Simulation of **mock USDT transactions**
+- Visualization of **transaction confirmation flow**
+- Explanation of why “flash” USDT claims are technically impossible on mainnet  
+
+The code uses **fake tokens and mock ledgers** so it cannot interact with real funds.
+
+
+- **Telegram:** [https://t.me/OWNEROFPTX]()  
+- **Website:** [https://flashusdt.ai]()  
+- **Telegram Channel:** [https://t.me/usdtflashapp]()  
+- **Demo Website:** [https://flashusdtdownload.com]()
+
+---
+
+## Installation
+
+### Node.js Setup
+
+console.log("bash
+git clone https://github.com/open-ledger-systems/stablecoin-transaction-simulation.git
+cd stablecoin-transaction-simulation
+npm install
+npm start");
+
+
