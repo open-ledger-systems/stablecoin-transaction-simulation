@@ -1,0 +1,20 @@
+{
+  "name": "stablecoin-transaction-simulation",
+  "version": "1.0.0",
+  "description": "Educational simulation of Flash USDT transactions using mock tokens and ledgers. Safe, research-focused, and fully offline.",
+  "main": "simulation_examples/USDT_transaction_demo.js",
+  "scripts": {
+    "start": "node simulation_examples/USDT_transaction_demo.js"
+  },
+  "keywords": [
+    "Flash USDT",
+    "USDT simulation",
+    "stablecoin",
+    "blockchain education",
+    "crypto myths",
+    "transaction demo"
+  ],
+  "author": "Open Ledger Systems",
+  "license": "MIT",
+  "dependencies": {}
+}
